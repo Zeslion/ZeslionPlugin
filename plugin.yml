@@ -1,0 +1,9 @@
+name: ZeslionPlugin
+version: 1.0
+author: Zeslion
+main: fr.zeslion.zeslionplugin.Main
+commands:
+  help:
+    description: Le help du plugin ZeslionPlugin
+  miniinv:
+    description: La commande pour le module MiniInv
