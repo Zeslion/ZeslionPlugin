@@ -1,0 +1,7 @@
+miniinv:
+  #Level 1 = -9 slots
+  #Level 2 = -18 slots
+  #Level 3 = -27 slots
+  #Level 4 = -32 slots
+  #Level 5 = -36 slots
+  level: 1
